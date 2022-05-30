@@ -12,7 +12,7 @@
            <br />
            
            <br />
-           >> pip install esptool
+           pip install esptool
            <br />
            
            <br />
