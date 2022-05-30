@@ -1,3 +1,4 @@
+<div>
 <h1 align="center'>Install for Linux Shell</h1>
            
            <br />
@@ -20,3 +21,5 @@
            Go to GitHub.com and download the latest .bin firmware file at <script img src=micropython.org/download#esp8266></script>. Move the .bin firmware file to a              new micropython directory. The .bin firmware file is the version of MicroPython that runs on the ESP8266 microcontroller. Straight from the manufacturer, the            ESP8266 microcontroller probably does not have MicroPyton installed, so we need to install MicroPython ourselves.
            After installing the Micropython .bin firmware file onto the board, we will be able to bring up the MicroPython REPL prompt, type commands into the                      Micropython REPL and run Micropython .py scripts on the board.</strong>
            <br />
+
+</div>
