@@ -1,4 +1,4 @@
-<h1> align="center" Twitter Bot for MicroPython (ESP8266)</h1>
+<h1> align=center Twitter Bot for MicroPython (ESP8266)</h1>
  
  <br /> 
 
@@ -28,10 +28,8 @@ AT = ''     # ACCESS_KEY
 AS = ''     # ACCESS_SECRET
 ```
 
-Any question, please send email to github@flogics.com though I may not have time to answer clearly.
+Any question, please send email to github@jasut1n.com though I may not have time to answer clearly.
 
 Thanks you.
 
 Dela Torre, Justine 
-
-Firmlogics [Link](http://flogics.com)
