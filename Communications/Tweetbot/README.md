@@ -1,20 +1,24 @@
-Twitter Bot for MicroPython (ESP8266)
+<h1> align="center" Twitter Bot for MicroPython (ESP8266)</h1>
+ 
+ <br /> 
 
-This program is a Tweet bot (Twitter status updater) for MicroPython ESP8266.
-Confirmed working with MicroPython.
+<strong>This program is a Tweet bot (Twitter status updater) for MicroPython ESP8266.
+Confirmed working with MicroPython.</strong>
 
-One problem is, this program consumes a lot of heap memory, so it will not run
-if you add more functionality.
+<strong>One problem is, this program consumes a lot of heap memory, so it will not run
+if you add more functionality.</strong>
 
-To run, we need a modified hmac.py which is compatible with SHA1.  We can
+<strong>To run, we need a modified hmac.py which is compatible with SHA1.  We can
 obtain the code below even though it is not merged to the main stream, yet.
-(Thanks to the patch author.)
+(Thanks to the patch author.)</strong>
 
-https://github.com/micropython/micropython-lib/pull/82/files
+<br />
+
+![Link](https://github.com/micropython/micropython-lib/pull/82/files)
 
 In addition, you need some authentication keys and secrets for Twitter.
 You can obtain
-them at https://dev.twitter.com/oauth/overview/application-owner-access-tokens .
+them at [Link](https://dev.twitter.com/oauth/overview/application-owner-access-tokens) .
 You can apply them to the variables in the tweet.py as following.
 
 ```python
@@ -30,4 +34,4 @@ Thanks you.
 
 Dela Torre, Justine 
 
-Firmlogics (http://flogics.com)
+Firmlogics [Link](http://flogics.com)
