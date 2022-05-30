@@ -1,4 +1,4 @@
-<h1> align=center Twitter Bot for MicroPython (ESP8266)</h1>
+<h1 align="center"> Twitter Bot for MicroPython <ESP8266></h1>
  
  <br /> 
 
