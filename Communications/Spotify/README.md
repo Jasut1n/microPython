@@ -5,13 +5,10 @@
   <br />
 
 
-  <strong>This is a library for using Spotify's web API from a IoT device with Micropython.
-
+    This is a library for using Spotify's web API from a IoT device with Micropython.
     It was developed and tested with an esp8266, but the library was made to work on any device
-
     and with both Micropython and CPython 3.5+. It is far from feature complete but there is 
-
-    a pattern to follow when adding more of the API.</strong>
+    a pattern to follow when adding more of the API.
 
 
   <br />
