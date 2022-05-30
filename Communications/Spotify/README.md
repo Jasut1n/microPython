@@ -1,6 +1,6 @@
 <div>
 
-  <h1 align="center">Spotify web API for Micropython</h1>
+  <h1 align="center">Spotify Web API for Micropython</h1>
 
   <br />
 
