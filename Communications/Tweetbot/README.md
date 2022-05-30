@@ -30,6 +30,6 @@ AS = ''     # ACCESS_SECRET
 
 Any question, please send email to github@jasut1n.com though I may not have time to answer clearly.
 
-Thanks you.
+Thank you.
 
 Dela Torre, Justine 
